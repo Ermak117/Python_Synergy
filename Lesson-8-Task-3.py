@@ -27,5 +27,3 @@ for i in range (len(ves)) : # перебираем вес всех рыбако�
         else: 
             para +=[[ves[i]]]
 print(f'Всего лодок для переправы:', len(para))
-print (para)
-print (ves[i])
